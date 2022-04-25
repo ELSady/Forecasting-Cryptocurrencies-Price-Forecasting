@@ -6,7 +6,7 @@
 * Preparing time series dataset for forecasting
 * Build Forecasting Model and predict the Prices.
 
-### COde and Resources Used
+### Code and Resources Used
 * Packages: pandas, numpy, datetime, matplotlib, seaborn, statsmodel, pmdarima, fbprphet.
 
 ### Project Highlight
