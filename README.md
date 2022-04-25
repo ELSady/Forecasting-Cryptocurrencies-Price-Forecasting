@@ -63,3 +63,8 @@
 * Forecast Components <br>
 
 ![alt text](https://github.com/ELSady/Forecasting-Cryptocurrencies-Price-Forecasting/blob/main/index7.png)
+
+* The plot displays the forecast components usingg FBProphet. According to FBprophet forecasting :
+* Theres an increasing price trend for the next few months.
+* Weekly seasonal, on average thursday and friday are the lowest when it comes to crypto price, while tuesday is the highest.
+* Mothly seasona;, on average the price fluctuates but on may is at the point where the prices peaks.
