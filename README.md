@@ -14,10 +14,12 @@
 ### Time Series Visualization <br>
 ![alt text](https://github.com/ELSady/Forecasting-Cryptocurrencies-Price-Forecasting/blob/main/index.png)
 
+* The plot displays the changes of Bitcoin over the past 10 years. We can see, theres a surge of its price at the start of 2017, this is primarily because cryptmining is becoming a thing at the time. The trend continoues until the year of 2019 where its price dips a little, but then the folowing year it surges, especially at the start of 2021. we see a massive surge price.
+
 ### Series Stationary Checking <br>
 ![alt text](https://github.com/ELSady/Forecasting-Cryptocurrencies-Price-Forecasting/blob/main/index1.png)
 
-Theres a big difference between rolling mean and its standard deviation, it is very clear that the serires is not stationary. The p value is also greater than 0.05 then, the null hypothesis (time serires stationary) is rejected. 
+* Theres a big difference between rolling mean and its standard deviation, it is very clear that the serires is not stationary. The p value is also greater than 0.05 then, the null hypothesis (time serires stationary) is rejected. 
 
 * DIckey Fuller Test Result
 > Test Statistics                   0.157982 <br>
