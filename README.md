@@ -14,7 +14,7 @@
 ### Time Series Visualization <br>
 ![alt text](https://github.com/ELSady/Forecasting-Cryptocurrencies-Price-Forecasting/blob/main/index.png)
 
-* The plot displays the changes of Bitcoin over the past 10 years. We can see, theres a surge of its price at the start of 2017, this is primarily because cryptmining is becoming a thing at the time. The trend continoues until the year of 2019 where its price dips a little, but then the folowing year it surges, especially at the start of 2021. we see a massive surge price.
+* The plot displays the changes of Bitcoin over the past 10 years. We can see, theres a price surge at the start of 2017, this is primarily because cryptmining is becoming a thing at the time. The trend continoues until the year of 2019 where its price dips a little, but then the folowing year it surges, especially at the start of 2021. we see a massive spike in price.
 
 ### Series Stationary Checking <br>
 ![alt text](https://github.com/ELSady/Forecasting-Cryptocurrencies-Price-Forecasting/blob/main/index1.png)
